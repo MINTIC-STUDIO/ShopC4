@@ -3,7 +3,7 @@ import {Helmet} from 'react-helmet'
 const MetaData = ({title})=>{
     return(
         <Helmet>
-            <title>{`${title} - Tienda de Ropa`}</title>
+            <title>{`${title} - Tienda de Ropa Gista`}</title>
         </Helmet>
     )
 }
